@@ -51,6 +51,14 @@ a {
 	font-style: italic;
 }
 
+.location {
+	left: 400px;
+}
+
+.date {
+	left: 400px;
+}
+
 .experience {
 	list-style-type: circle;
 }
